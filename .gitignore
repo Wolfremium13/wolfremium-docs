@@ -4,3 +4,4 @@
 out
 /site/
 /.ipynb_checkpoints/
+/jupyter-docs/**/.ipynb_checkpoints/
