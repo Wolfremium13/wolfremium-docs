@@ -1,0 +1,45 @@
+site_name: Machine Learning Tdd Docs
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.expand
+    - header.autohide
+    - search.suggest
+  icon:
+    repo: fontawesome/brands/git-alt
+    logo: material/bookmark
+  palette:
+
+    - scheme: default
+      primary: blue grey
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      lang:
+        - en
+        - es
+
+markdown_extensions:
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.keys
+  - pymdownx.tabbed
+  - attr_list
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+
