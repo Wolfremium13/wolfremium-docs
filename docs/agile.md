@@ -71,7 +71,7 @@ posibles limitaciones como las siguientes:
 
 > Ese es también el motivo por el que las prácticas de Agile llevan años evolucionando para solucionar sus carencias y ser aplicables en escenarios más generales. En cualquier caso, es evidente que **la flexibilidad que aporta Agile no es gratis** y a veces sus costes pueden superar a sus beneficios.
 
-### Dark Agile
+## Dark Agile
 
 El problema es cuando un equipo comienza a **utilizar un marco Agile de forma incorrecta**. El equipo comienza a
 centrarse más en su adherencia al proceso que en mantenerse fieles a los valores ágiles. Esto es Dark Agile.
@@ -81,7 +81,7 @@ centrarse más en su adherencia al proceso que en mantenerse fieles a los valore
 * Los resultados esperados comienzan a ser productos , a diferencia de los resultados comerciales (resultados).
 * Todo riesgo está al final del proceso , en oposición a los riesgos que se abordan por adelantado, lo antes posible.
 
-#### Síntomas de Dark Agile
+### Síntomas de Dark Agile
 
 Estos síntomas pueden manifestarse de muchas formas. El cambio suele venir de arriba hacia abajo. Surgirán fechas límite
 para funciones específicas. Se le empezará a decir al equipo qué construir y no qué problemas resolver. La gerencia, o
@@ -100,7 +100,7 @@ manera no ágil. Para encajar en las actividades de planificación de la organiz
 que haga hojas de ruta y compromisos, de modo que los otros grupos de la organización puedan planificar en consecuencia.
 Dark Agile puede volverse inevitable.
 
-#### Disminuir Dark Agile
+### Disminuir Dark Agile
 
 Se deben rastrear sus prácticas hasta su raíz en los valores ágiles y socializar este vínculo con frecuencia. Los
 valores de Agile deben ser la lente a través de la cual se vean las estrategias y decisiones. Deben fomentarse las
@@ -113,7 +113,7 @@ debe observarse un enfoque en los tres principios que combaten los síntomas com
 
 > No existe una fórmula mágica para conquistar Dark Agile, solo una búsqueda incesante de inculcar los valores de Agile.
 
-### Agile Inception o Sprint Cero
+## Agile Inception o Sprint Cero
 
 Empezamos cada proyecto con Inception, un ejercicio de descubrimiento que crea el escenario para un producto y produce
 un backlog inicial. Claro hasta ese momento no hay software que funcione, pero se tiene una idea clara de por qué
@@ -122,17 +122,30 @@ queremos construir algo.
 Típicamente el proceso toma un día completo, y la asistencia incluye a todo el equipo (desarrolladores, gerentes de
 producto, diseñadores, analistas de soporte, UX, ingenieros, testers, etc.).
 
-#### Objetivos, riesgos y anti-objetivos
-En lugar de intentar priorizar al inicio, lo mejor es empezar por capturar todo lo que se ha podido identificar con los participantes de la sesión y luego agrupar los temas para los objetivos: políticas de la empresa, propuestas de valor, riesgos sensibles al tiempo, y posibles nuevas características.
+### Objetivos, riesgos y anti-objetivos
 
-Un buen contrapunto a las metas son los «anti-objetivos» o el «no-haremos», un término para capturar todo lo que podría ser importante algún día, pero que representa una amenaza para lograr las metas.
+En lugar de intentar priorizar al inicio, lo mejor es empezar por capturar todo lo que se ha podido identificar con los
+participantes de la sesión y luego agrupar los temas para los objetivos: políticas de la empresa, propuestas de valor,
+riesgos sensibles al tiempo, y posibles nuevas características.
 
-Es importante asegurarse de que cada elemento en los anti-objetivos pertenece allí, y todo el mundo está de acuerdo (y sabe por qué).
+Un buen contrapunto a las metas son los «anti-objetivos» o el «no-haremos», un término para capturar todo lo que podría
+ser importante algún día, pero que representa una amenaza para lograr las metas.
+
+Es importante asegurarse de que cada elemento en los anti-objetivos pertenece allí, y todo el mundo está de acuerdo (y
+sabe por qué).
 
 > Los riesgos son interesantes porque la intuición humana es a menudo el mejor indicador de los problemas futuros.
 
-### El marketing alredor de Agile
+## ¿Qué es Flaccid Scrum o Flaccid Agile?
 
-- ¿Cómo las empresas ven el Agile como una forma de vender pryectos o cursos?
+Flaccid Scrum es descrito por Martin Fowler como un escenario en el que un equipo de Scrum "adopta las prácticas de Scrum, y
+tal vez incluso los principios de Scrum", pero "después de un tiempo el progreso es lento porque el código base es un
+desastre", porque "no han pagado suficiente atención a la calidad interna de su software ”. Se postula que esto ocurre
+porque Scrum está orientado a la gestión en lugar de a la ingeniería, y este desaire a Scrum no es un desconocido para
+la comunidad de Scrum.
+
+## El marketing alredor de Agile
+
+- ¿Cómo las empresas ven el Agile como una forma de vender proyectos o cursos?
 - ¿Cómo afecta qué ten la medalla de Agile sabiendo programar pero sin saber diseño, refactoring o pruebas unitarias?
 
