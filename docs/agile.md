@@ -8,6 +8,9 @@ Lo primero que hay que decir es que lo que ahora se conoce como Agile surgió a 
 siglo (e incluso antes) en forma de metodologías “ligeras” de desarrollo software, como respuesta a las limitaciones de
 las metodologías “pesadas” tipo Waterfall.
 
+> Realmente la metodología en sí se basa en metodologías de otro tipo de ingenierías o del ámbito científico haciendo
+> una aproximación de cómo debería ser en el software.
+
 Sin embargo el desarrollo de programas, por su propia naturaleza, no se ajusta muy bien a dichas condiciones: la
 complejidad de los problemas que se suelen resolver mediante software, la indefinición de los requisitos del cliente, la
 importancia de la interacción entre el producto final y sus usuarios, el continuo cambio tecnológico, etc. hacían
@@ -51,7 +54,9 @@ reglas y prácticas provienen de los marcos ágiles (Scrum, XP, Kanban, SAFe). L
 sobre cómo un equipo puede aprender a pensar de manera ágil y fomentar los valores ágiles. No son ágiles en sí mismos.
 Son herramientas que, cuando se usan correctamente, pueden respaldar los valores ágiles.
 
-> En realidad muchos de los principios de Agile (como por ejemplo incrementar la flexibilidad o la comunicación) son ideas de sentido común pensadas para enmendar el mal funcionamiento de las metodologías tradicionales en ciertos escenarios y para arreglar equipos de proyecto disfuncionales
+> En realidad muchos de los principios de Agile (como por ejemplo incrementar la flexibilidad o la comunicación) son
+> ideas de sentido común pensadas para enmendar el mal funcionamiento de las metodologías tradicionales en ciertos
+> escenarios y para arreglar equipos de proyecto disfuncionales
 
 ### Ventajas / Desventajas
 
@@ -67,9 +72,12 @@ posibles limitaciones como las siguientes:
 * Requiere reuniones muy frecuentes con los clientes, con el consiguiente coste
 * Dificultad para escalar a proyectos grandes y con personal distribuido geográficamente
 
-> Algunas organizaciones encuentran difícil implantar Agile en toda su extensión -con el cambio de cultura que requiere- y se quedan en sus prácticas superficiales
+> Algunas organizaciones encuentran difícil implantar Agile en toda su extensión -con el cambio de cultura que requiere-
+> y se quedan en sus prácticas superficiales
 
-> Ese es también el motivo por el que las prácticas de Agile llevan años evolucionando para solucionar sus carencias y ser aplicables en escenarios más generales. En cualquier caso, es evidente que **la flexibilidad que aporta Agile no es gratis** y a veces sus costes pueden superar a sus beneficios.
+> Ese es también el motivo por el que las prácticas de Agile llevan años evolucionando para solucionar sus carencias y
+> ser aplicables en escenarios más generales. En cualquier caso, es evidente que **la flexibilidad que aporta Agile no
+> es gratis** y a veces sus costes pueden superar a sus beneficios.
 
 ## Dark Agile
 
@@ -138,14 +146,47 @@ sabe por qué).
 
 ## ¿Qué es Flaccid Scrum o Flaccid Agile?
 
-Flaccid Scrum es descrito por Martin Fowler como un escenario en el que un equipo de Scrum "adopta las prácticas de Scrum, y
-tal vez incluso los principios de Scrum", pero "después de un tiempo el progreso es lento porque el código base es un
-desastre", porque "no han pagado suficiente atención a la calidad interna de su software ”. Se postula que esto ocurre
-porque Scrum está orientado a la gestión en lugar de a la ingeniería, y este desaire a Scrum no es un desconocido para
-la comunidad de Scrum.
+Flaccid Scrum es descrito por Martin Fowler como un escenario en el que un equipo de Scrum "adopta las prácticas de
+Scrum, y tal vez incluso los principios de Scrum", pero "después de un tiempo el progreso es lento porque el código base
+es un desastre", porque "no han pagado suficiente atención a la calidad interna de su software ”. Se postula que esto
+ocurre porque Scrum está orientado a la gestión en lugar de a la ingeniería, y este desaire a Scrum no es un desconocido
+para la comunidad de Scrum.
+> Un ejemplo de esto lo describe "Uncle Bob" con una analogía en la qué una metodología muy rápida tiene una deuda
+> técnica muy grande no se puede ser rápido y escribir código de calidad al mismo tiempo.
 
 ## El marketing alredor de Agile
 
-- ¿Cómo las empresas ven el Agile como una forma de vender proyectos o cursos?
-- ¿Cómo afecta qué ten la medalla de Agile sabiendo programar pero sin saber diseño, refactoring o pruebas unitarias?
+- **¿Cómo las empresas ven el Agile como una forma de vender proyectos o cursos?**
 
+  Realmente no hay una respuesta concreta a esta pregunta, debido a qué cada empresa lo interpreta de forma distinta,
+  esto crea varias vertientes en el mundo Agile. Hay muchas personas qué piensan que el objetivo original de restablecer
+  la La conexión de negocio con el área técnica no ha sido suficiente.
+
+  > Por lo tanto vamos a tener empresas que vendan sus cursos
+  > como la última coca-cola del desierto y si no te funciona es qué no eres lo suficientemente ágil. La contra parte, la
+  > qué te dice: "ey! esto no se aprende en 1 día".
+
+- **¿Cómo afecta qué ten la medalla de Agile sabiendo programar pero sin saber diseño, refactoring o pruebas
+  unitarias?**
+
+  Este tipo de cosas suceden muchas veces debido a que los "developers" no les interesa tanto el tema cómo a los
+  "proyect managers", esto acarrea una serie de problemas a la larga debido a estos últimos, exigen la mayoría de veces
+  a las personas a su cargo qué su idea de Agile (o cómo se lo vendieron)  es lo mejor para su equipo y mejorar los
+  ritmos de trabajo y productividad. Al mismo tiempo no tienen cuidado de lo qué en realidad piden al no tener
+  conocimientos adecuados del tema.
+
+  > Realmente si lo miras desde fuera tampoco está mal intencionado, pero si reconozco qué si le das una herramienta
+  > a alguien se puede hacer daño a él y a los demás si la usa mal o no conoce lo malo de esta.
+
+  Por la parte de los "developers" qué se auto determinan Agile por haber hecho un cursito o hacer algún test y
+  desconocen lo mencionado en la pregunta es muy probable qué apliquen de forma pobre la idea de Agile si este no busca
+  a diario crecer como programador escribiendo mejor código para las personas. Otros buscan hacer su empresa Agile y se
+  dan de morros contra sus jefes o negocio. Tengo la impresión de qué sucede algo parecido a lo anterior pero ahora es
+  el developer el que quiere cambiar, podría usar la misma analogía pero realmente no es la misma.
+
+  > Creo qué es más importante ir haciendo tú pequeñas cosas Agile en el día a día qué buscar cambiar la cultura de toda la
+  > empresa lo cuál puede destinarla al fracaso a todos los niveles si no lo hacen bien y a tiempo.
+
+## Agile contra la realidad
+
+- ¿Cómo de compatibles son los principios detrás del "Manifiesto Ágil" con el día a día?
