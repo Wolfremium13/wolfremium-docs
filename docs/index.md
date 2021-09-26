@@ -1,27 +1,6 @@
-# Knowledge RoadMap
+# Welcome
 
-### Basics
-
-- [x] Python 3 Basics
-    * [ ] TDD in python
-- [x] Pip / Anaconda knowledge
-
-### Medium
-
-- [ ] Big Data
-    * [x] Basic knowledge of the functionality
-    * [x] Introduction of Numpy
-    * [ ] Introduction of Pandas
-    * [ ] Introduction of PyCaret
-        * [ ] Make the tutorial guide
-    * [ ] Search About TDD in Big Data
-        * [ ] Short Feedback cycle
-        * [ ] Fail-Fast
-        * [ ] Snapshot Testing
-### Advance
-        
-- [ ] Machine Learning
-- [ ] Agile
-    * [ ] Current State of Agile
-    * [ ] Why there's no TDD in Machine Learning?
-    * [ ] Limits of TDD for Machine Learning
+Bienvenidos a un página de documentación de uso personal Wolfremium-Docs, aquí se destacarán tanto experiencias como
+frases de libros. La mayoría de cosas dispuestas aquí no tienen porqué estar de acuerdo con tus conocimientos respecto a
+estos temas. Él uso qué les doy es como un borrador online al cuál consultar, por desgracia Google aún no puede
+contestar con precisión basándose en blogs de personas qué toman su propia opinión en consideración.
