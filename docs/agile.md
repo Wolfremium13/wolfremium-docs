@@ -115,9 +115,9 @@ valores de Agile deben ser la lente a través de la cual se vean las estrategias
 discusiones frecuentes y detalladas sobre los valores y cómo se aplican a las situaciones cotidianas. Además de esto,
 debe observarse un enfoque en los tres principios que combaten los síntomas comunes de Dark Agile.
 
-* Los riesgos se abordan lo antes posible en el proceso , en lugar de al final.
-* El trabajo se define y diseña de manera colaborativa , en lugar de secuencial.
-* La atención se centra en resolver problemas , no en implementar funciones.
+* Los riesgos se abordan lo antes posible en el proceso, en lugar de al final.
+* El trabajo se define y diseña de manera colaborativa, en lugar de secuencial.
+* La atención se centra en resolver problemas, no en implementar funciones.
 
 > No existe una fórmula mágica para conquistar Dark Agile, solo una búsqueda incesante de inculcar los valores de Agile.
 
@@ -187,6 +187,34 @@ para la comunidad de Scrum.
   > Creo qué es más importante ir haciendo tú pequeñas cosas Agile en el día a día qué buscar cambiar la cultura de toda la
   > empresa lo cuál puede destinarla al fracaso a todos los niveles si no lo hacen bien y a tiempo.
 
+## Innovation theather - Steve Blank
+
+A medida que las organizaciones crecen, comienzan a priorizar el proceso sobre el producto. Eso impide la innovación
+real. Cuando las organizaciones se dan cuenta de esto, por lo general responden de tres maneras: contratando consultores
+para hacer una reorganización (eso es "organizational theater"), adoptando nuevos procesos como hackatones para
+estimular la innovación (eso es "**innovation theater**") o tomando medidas para intentar reformar sus comportamientos
+burocráticos (eso es "process theater"). En cambio, lo que las organizaciones necesitan es una **Doctrina de
+Innovación**
+que aborde la cultura, la mentalidad, el proceso y oriente los esfuerzos de la organización para lograr innovaciones
+reales.
+
 ## Agile contra la realidad
 
-- ¿Cómo de compatibles son los principios detrás del "Manifiesto Ágil" con el día a día?
+- ¿Cómo de compatibles son los principios de entorno colaborativo con el rendimiento?
+
+  Además del evidente intercambio de conocimientos que da paso al aprendizaje individual y grupal, un entorno
+  colaborativo ofrece muchos otros beneficios que impactan positivamente al rendimiento de la empresa como por ejemplo
+  fortalecer los lazos de cooperación entre los integrantes
+  > El trabajo cooperativo requiere ciertos retos y actitudes para superar las desventajas que tiene y convertirse
+  > así en una forma exitosa de organización.
+
+  Existen ciertas trabas que acentúan los inconvenientes del trabajo colaborativo. Al igual que ocurre en el trabajo en
+  equipo, la relación entre compañeros puede ser complicada por la incompatibilidad de personalidades o por una posible
+  competición entre ellos. Por ejemplo si la colaboración no es un éxito supondrá un malgasto de recursos y perjudicará
+  a las personas y la organización.
+
+- ¿Si Agile es tan bueno por qué hay proyectos qué aún usan Waterfall?
+
+  Sencillo, no vas a encontrar peor metodología que un Agile mal implementado. El Agile mal implementado te puede traer
+  costos excesivos de desarrollo, implementación de tecnologías no sustentables para los equipos internos, cambios
+  constantes y falta de documentación necesaria para el futuro. Es así como muchas caen en el “innovation theather”.
