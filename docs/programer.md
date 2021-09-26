@@ -27,7 +27,7 @@ del desarrollo de software.
 
 ### La enseñanza de la programación
 
-Una de las primeras consecuencias de que la programaciÛn sea des- preciada, o considerada como impropia de un ingeniero,
+Una de las primeras consecuencias de que la programación sea despreciada, o considerada como impropia de un ingeniero,
 es que la práctica de la programación, junto a los estándares de codificación y el dominio de las herramientas de
 desarrollo, han pasado a ser materias sin mucho interÈs dentro de los planes acadÈmicos. Las universidades pretenden
 formar ingenieros, no peones albañiles. Por otra parte, la enseÒanza de la programación es compleja. Se requieren varios
