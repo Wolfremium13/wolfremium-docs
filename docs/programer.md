@@ -29,8 +29,8 @@ del desarrollo de software.
 
 Una de las primeras consecuencias de que la programación sea despreciada, o considerada como impropia de un ingeniero,
 es que la práctica de la programación, junto a los estándares de codificación y el dominio de las herramientas de
-desarrollo, han pasado a ser materias sin mucho interÈs dentro de los planes acadÈmicos. Las universidades pretenden
-formar ingenieros, no peones albañiles. Por otra parte, la enseÒanza de la programación es compleja. Se requieren varios
+desarrollo, han pasado a ser materias sin mucho interés dentro de los planes académicos. Las universidades pretenden
+formar ingenieros, no peones albañiles. Por otra parte, la enseñanza de la programación es compleja. Se requieren varios
 años de experiencia para empezar a adquirir buenos hábitos de programación. En término medio, las personas tardan de 1 a
 3 años en empezar a ser productivas.
 
